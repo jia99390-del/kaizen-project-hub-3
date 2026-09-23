@@ -1,0 +1,70 @@
+generator client { provider = "prisma-client-js" }
+datasource db { provider = "postgresql"
+  url = env("DATABASE_URL") }
+
+// Project -> Versions -> Materials (with costs) and Steps (instructions)
+model Project {
+  id           String    @id @default(cuid())
+  slug         String    @unique
+  title        String
+  description  String
+  category     String
+  difficulty   String
+  time         String
+  image        String
+  gallery      String[]
+  featured     Boolean   @default(false)
+  tools        String[]
+  safety       String[]
+  mistakes     String[]
+  alternatives String[]
+  tips         String[]
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  versions     Version[]
+  @@index([category])
+}
+model Version {
+  id         String     @id @default(cuid())
+  projectId  String
+  project    Project    @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  tier       String     // budget | standard | premium
+  extraCost  Float      @default(0)
+  durability String     // expected lifespan
+  difficulty String
+  time       String
+  pros       String[]
+  cons       String[]
+  position   Int
+  materials  Material[]
+  steps      Step[]
+  @@index([projectId])
+}
+model Material {
+  id        String  @id @default(cuid())
+  versionId String
+  version   Version @relation(fields: [versionId], references: [id], onDelete: Cascade)
+  name      String
+  qty       String
+  purpose   String
+  cost      Float
+  position  Int
+}
+model Step {
+  id        String  @id @default(cuid())
+  versionId String
+  version   Version @relation(fields: [versionId], references: [id], onDelete: Cascade)
+  title     String
+  text      String
+  imageUrl  String?
+  safety    String?
+  tip       String?
+  position  Int
+}
+// Admin-uploaded images, served by /img/[id]
+model Image {
+  id        String   @id @default(cuid())
+  mime      String
+  data      Bytes
+  createdAt DateTime @default(now())
+}

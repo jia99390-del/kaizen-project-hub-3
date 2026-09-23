@@ -1,0 +1,8 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+:root { --ink:#14171f; --paper:#ffffff; --card:#f7f8fb; --line:#e3e7ef; --mute:#5b6473; --blue:#1f4fd8; }
+.dark { --ink:#eef1f7; --paper:#0e121b; --card:#151a26; --line:#252c3b; --mute:#9aa4b6; --blue:#6f95ff; }
+body { background: var(--paper); color: var(--ink); transition: background .3s, color .3s; }
+:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+.rise { animation: rise .5s ease both; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }

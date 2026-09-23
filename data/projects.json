@@ -1,0 +1,1851 @@
+[
+ {
+  "slug": "weatherproof-transformer-cover",
+  "title": "Weatherproof Ventilated Transformer Cover",
+  "description": "A folded-sheet cover with a steep cone roof, hooded ribbon louvers and flared side shields. It keeps rain off a pole-mounted transformer while hot air still escapes, with no custom molding.",
+  "category": "Electrical & Outdoor",
+  "image": "/projects/weatherproof-transformer-cover/cover.jpg",
+  "gallery": [
+   "/projects/weatherproof-transformer-cover/ref-1.jpg",
+   "/projects/weatherproof-transformer-cover/ref-2.jpg"
+  ],
+  "difficulty": "Hard",
+  "time": "1–2 days",
+  "featured": true,
+  "tools": [
+   "Tin snips",
+   "Drill and bits",
+   "Rivet gun or wrench set",
+   "Angle grinder",
+   "Tape measure and level",
+   "Marker and paper pattern"
+  ],
+  "safety": [
+   "Coordinate with the utility; only qualified staff work near live equipment",
+   "Wear gloves, eye protection and a hard hat",
+   "Use fall protection when working at height",
+   "Do not work in rain, wind or lightning"
+  ],
+  "mistakes": [
+   "Blocking the top or bottom airflow",
+   "Letting metal touch live parts",
+   "Sharp, unfinished cut edges",
+   "Too little clearance for maintenance",
+   "Ignoring condensation inside"
+  ],
+  "alternatives": [
+   "Aluminum sheet instead of galvanized",
+   "Corrugated plastic or polycarbonate instead of PVC",
+   "Fiberglass panels for the side shields"
+  ],
+  "tips": [
+   "Prototype with cardboard",
+   "Use a paper pattern for the cone",
+   "Paint cut edges to prevent rust"
+  ],
+  "createdAt": "2026-09-24T00:00:00.000Z",
+  "versions": [
+   {
+    "tier": "budget",
+    "extraCost": 0,
+    "durability": "3–5 yrs",
+    "difficulty": "Medium",
+    "time": "1 day",
+    "pros": [
+     "Under about $100 in parts",
+     "Simple, readily available materials"
+    ],
+    "cons": [
+     "Thinner panels wear faster",
+     "Basic finish"
+    ],
+    "materials": [
+     {
+      "name": "Folded galvanized sheet cone",
+      "qty": "1 cap, about 1.2 m wide",
+      "purpose": "Cone roof that sheds rain",
+      "cost": 28
+     },
+     {
+      "name": "Angled metal strips",
+      "qty": "1 ring",
+      "purpose": "Hooded louvers: block sideways rain, let hot air out",
+      "cost": 20
+     },
+     {
+      "name": "Corrugated plastic or thin PVC",
+      "qty": "2 flared panels, 0.5–0.8 m each",
+      "purpose": "Side shields that throw water away from base and cables",
+      "cost": 20
+     },
+     {
+      "name": "Galvanized angle iron frame",
+      "qty": "1 frame",
+      "purpose": "Support structure, open bottom",
+      "cost": 25
+     },
+     {
+      "name": "Bolts, nuts, washers, paint",
+      "qty": "1 set",
+      "purpose": "Fastening and corrosion protection",
+      "cost": 12
+     }
+    ],
+    "steps": [
+     {
+      "title": "Get approval and plan clearances",
+      "text": "Confirm the project with the utility that owns the transformer. Measure the unit and the pole, then set the cover size (typically 2.0–2.8 m tall, 0.5–0.8 m per side panel).",
+      "safety": "Never work near energized equipment. Only qualified utility personnel may de-energize, install or approach a live transformer.",
+      "tip": "Make a cardboard mock-up first to check clearances."
+     },
+     {
+      "title": "Build the support frame",
+      "text": "Bolt the angle-iron frame together and keep the bottom open so cooling air can enter and crews can reach the unit.",
+      "safety": "Wear gloves and eye protection; cut edges are sharp.",
+      "tip": "Leave the base raised above ground splash.",
+      "image": "/projects/weatherproof-transformer-cover/step-2.jpg"
+     },
+     {
+      "title": "Fold the cone roof",
+      "text": "Cut the sheet to a paper pattern, fold it into a steep cone and fasten the seam. The steep angle lets water run straight down.",
+      "tip": "Seal rivet holes to stop leaks.",
+      "image": "/projects/weatherproof-transformer-cover/step-3.jpg"
+     },
+     {
+      "title": "Form the hooded louvers",
+      "text": "Fix angled strips in a ring under the cone so slats point downward. Air escapes sideways while rain is blocked.",
+      "safety": "File or fold all cut edges to avoid cuts.",
+      "tip": "Keep gaps even for steady airflow.",
+      "image": "/projects/weatherproof-transformer-cover/step-4.jpg"
+     },
+     {
+      "title": "Attach the flared side shields",
+      "text": "Curve thin, rigid sheets outward from the frame so surface tension carries water away from the transformer, cables and base.",
+      "tip": "Overlap panels a little to stop splash-through.",
+      "image": "/projects/weatherproof-transformer-cover/step-5.jpg"
+     },
+     {
+      "title": "Check airflow and clearances",
+      "text": "Confirm vents are open, nothing touches live parts, and crews can still reach the unit. Recheck bolts after the first storms.",
+      "safety": "This reduces rain-related risk but cannot stop failures from electrical faults, lightning or internal defects.",
+      "tip": "Inspect cracks, insulators and cable glands each season."
+     }
+    ]
+   },
+   {
+    "tier": "standard",
+    "extraCost": 0,
+    "durability": "10+ yrs",
+    "difficulty": "Hard",
+    "time": "1.5 days",
+    "pros": [
+     "Balanced cost and durability",
+     "Cleaner louver ring"
+    ],
+    "cons": [
+     "Needs more precise fitting"
+    ],
+    "materials": [
+     {
+      "name": "Galvanized sheet, riveted cone",
+      "qty": "1 cap, about 1.2 m wide",
+      "purpose": "Cone roof that sheds rain",
+      "cost": 45
+     },
+     {
+      "name": "Formed galvanized louver ring",
+      "qty": "1 ring",
+      "purpose": "Hooded louvers: block sideways rain, let hot air out",
+      "cost": 35
+     },
+     {
+      "name": "Rigid PVC sheets",
+      "qty": "2 flared panels, 0.5–0.8 m each",
+      "purpose": "Side shields that throw water away from base and cables",
+      "cost": 35
+     },
+     {
+      "name": "Galvanized angle frame, bolted",
+      "qty": "1 frame",
+      "purpose": "Support structure, open bottom",
+      "cost": 40
+     },
+     {
+      "name": "Stainless bolts, weatherproof paint",
+      "qty": "1 set",
+      "purpose": "Fastening and corrosion protection",
+      "cost": 25
+     }
+    ],
+    "steps": [
+     {
+      "title": "Get approval and plan clearances",
+      "text": "Confirm the project with the utility that owns the transformer. Measure the unit and the pole, then set the cover size (typically 2.0–2.8 m tall, 0.5–0.8 m per side panel).",
+      "safety": "Never work near energized equipment. Only qualified utility personnel may de-energize, install or approach a live transformer.",
+      "tip": "Make a cardboard mock-up first to check clearances."
+     },
+     {
+      "title": "Build the support frame",
+      "text": "Bolt the angle-iron frame together and keep the bottom open so cooling air can enter and crews can reach the unit.",
+      "safety": "Wear gloves and eye protection; cut edges are sharp.",
+      "tip": "Leave the base raised above ground splash.",
+      "image": "/projects/weatherproof-transformer-cover/step-2.jpg"
+     },
+     {
+      "title": "Fold the cone roof",
+      "text": "Cut the sheet to a paper pattern, fold it into a steep cone and fasten the seam. The steep angle lets water run straight down.",
+      "tip": "Seal rivet holes to stop leaks.",
+      "image": "/projects/weatherproof-transformer-cover/step-3.jpg"
+     },
+     {
+      "title": "Form the hooded louvers",
+      "text": "Fix angled strips in a ring under the cone so slats point downward. Air escapes sideways while rain is blocked.",
+      "safety": "File or fold all cut edges to avoid cuts.",
+      "tip": "Keep gaps even for steady airflow.",
+      "image": "/projects/weatherproof-transformer-cover/step-4.jpg"
+     },
+     {
+      "title": "Attach the flared side shields",
+      "text": "Curve thin, rigid sheets outward from the frame so surface tension carries water away from the transformer, cables and base.",
+      "tip": "Overlap panels a little to stop splash-through.",
+      "image": "/projects/weatherproof-transformer-cover/step-5.jpg"
+     },
+     {
+      "title": "Check airflow and clearances",
+      "text": "Confirm vents are open, nothing touches live parts, and crews can still reach the unit. Recheck bolts after the first storms.",
+      "safety": "This reduces rain-related risk but cannot stop failures from electrical faults, lightning or internal defects.",
+      "tip": "Inspect cracks, insulators and cable glands each season."
+     }
+    ]
+   },
+   {
+    "tier": "premium",
+    "extraCost": 0,
+    "durability": "20+ yrs",
+    "difficulty": "Hard",
+    "time": "2 days",
+    "pros": [
+     "Longest life and best finish",
+     "Corrosion-resistant hardware"
+    ],
+    "cons": [
+     "Highest cost",
+     "Needs sheet-metal skill"
+    ],
+    "materials": [
+     {
+      "name": "Powder-coated aluminum cone",
+      "qty": "1 cap, about 1.2 m wide",
+      "purpose": "Cone roof that sheds rain",
+      "cost": 110
+     },
+     {
+      "name": "Aluminum louver band",
+      "qty": "1 ring",
+      "purpose": "Hooded louvers: block sideways rain, let hot air out",
+      "cost": 85
+     },
+     {
+      "name": "UV-stable polycarbonate",
+      "qty": "2 flared panels, 0.5–0.8 m each",
+      "purpose": "Side shields that throw water away from base and cables",
+      "cost": 90
+     },
+     {
+      "name": "Aluminum extrusion frame",
+      "qty": "1 frame",
+      "purpose": "Support structure, open bottom",
+      "cost": 120
+     },
+     {
+      "name": "Stainless hardware, marine coating",
+      "qty": "1 set",
+      "purpose": "Fastening and corrosion protection",
+      "cost": 45
+     }
+    ],
+    "steps": [
+     {
+      "title": "Get approval and plan clearances",
+      "text": "Confirm the project with the utility that owns the transformer. Measure the unit and the pole, then set the cover size (typically 2.0–2.8 m tall, 0.5–0.8 m per side panel).",
+      "safety": "Never work near energized equipment. Only qualified utility personnel may de-energize, install or approach a live transformer.",
+      "tip": "Make a cardboard mock-up first to check clearances."
+     },
+     {
+      "title": "Build the support frame",
+      "text": "Bolt the angle-iron frame together and keep the bottom open so cooling air can enter and crews can reach the unit.",
+      "safety": "Wear gloves and eye protection; cut edges are sharp.",
+      "tip": "Leave the base raised above ground splash.",
+      "image": "/projects/weatherproof-transformer-cover/step-2.jpg"
+     },
+     {
+      "title": "Fold the cone roof",
+      "text": "Cut the sheet to a paper pattern, fold it into a steep cone and fasten the seam. The steep angle lets water run straight down.",
+      "tip": "Seal rivet holes to stop leaks.",
+      "image": "/projects/weatherproof-transformer-cover/step-3.jpg"
+     },
+     {
+      "title": "Form the hooded louvers",
+      "text": "Fix angled strips in a ring under the cone so slats point downward. Air escapes sideways while rain is blocked.",
+      "safety": "File or fold all cut edges to avoid cuts.",
+      "tip": "Keep gaps even for steady airflow.",
+      "image": "/projects/weatherproof-transformer-cover/step-4.jpg"
+     },
+     {
+      "title": "Attach the flared side shields",
+      "text": "Curve thin, rigid sheets outward from the frame so surface tension carries water away from the transformer, cables and base.",
+      "tip": "Overlap panels a little to stop splash-through.",
+      "image": "/projects/weatherproof-transformer-cover/step-5.jpg"
+     },
+     {
+      "title": "Check airflow and clearances",
+      "text": "Confirm vents are open, nothing touches live parts, and crews can still reach the unit. Recheck bolts after the first storms.",
+      "safety": "This reduces rain-related risk but cannot stop failures from electrical faults, lightning or internal defects.",
+      "tip": "Inspect cracks, insulators and cable glands each season."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "floating-shelf",
+  "title": "Floating Wall Shelf",
+  "description": "Thick black floating shelves with hidden fixings, for books, lamps and photos.",
+  "category": "Furniture",
+  "image": "/projects/floating-shelf/cover.jpg",
+  "gallery": [
+   "/projects/floating-shelf/ref-1.jpg",
+   "/projects/floating-shelf/ref-2.jpg"
+  ],
+  "difficulty": "Easy",
+  "time": "2–4 hrs",
+  "featured": false,
+  "tools": [
+   "Drill/driver",
+   "Level",
+   "Stud finder",
+   "Sander",
+   "Clamps"
+  ],
+  "safety": [
+   "Wear eye protection when drilling",
+   "Check for wires and pipes",
+   "Use a dust mask when sanding"
+  ],
+  "mistakes": [
+   "Skipping the studs",
+   "Cleat not level",
+   "Overloading a hollow shelf"
+  ],
+  "alternatives": [
+   "Solid timber slab",
+   "Steel L-brackets",
+   "Reclaimed wood"
+  ],
+  "tips": [
+   "Use a wall cleat for a clean look",
+   "Space shelves about 35 cm apart"
+  ],
+  "createdAt": "2026-09-24T00:00:00.000Z",
+  "versions": [
+   {
+    "tier": "budget",
+    "extraCost": 0,
+    "durability": "2–5 yrs",
+    "difficulty": "Easy",
+    "time": "2 hrs",
+    "pros": [
+     "Lowest cost",
+     "Quick to build"
+    ],
+    "cons": [
+     "Shorter lifespan",
+     "Basic finish"
+    ],
+    "materials": [
+     {
+      "name": "Pine frame with plywood skins",
+      "qty": "1 shelf, about 1.2 m",
+      "purpose": "Thick shelf body",
+      "cost": 26
+     },
+     {
+      "name": "Wooden wall cleat",
+      "qty": "1",
+      "purpose": "Invisible support",
+      "cost": 6
+     },
+     {
+      "name": "Screws and wall anchors",
+      "qty": "1 set",
+      "purpose": "Mounting",
+      "cost": 6
+     },
+     {
+      "name": "Black paint",
+      "qty": "1 can",
+      "purpose": "Black or dark finish",
+      "cost": 9
+     }
+    ],
+    "steps": [
+     {
+      "title": "Mark the wall",
+      "text": "Find studs and mark a level line for the hidden cleat.",
+      "safety": "Check for wires and pipes before drilling.",
+      "tip": "Preview with painter's tape."
+     },
+     {
+      "title": "Build and sand the shelf box",
+      "text": "Make a hollow box from a frame and two skins, leaving a slot at the back for the cleat; sand the edges smooth.",
+      "safety": "Wear a dust mask when sanding.",
+      "image": "/projects/floating-shelf/step-2.jpg"
+     },
+     {
+      "title": "Finish in black",
+      "text": "Apply thin coats of black paint, stain or oil and let each coat cure fully.",
+      "safety": "Lay oily rags flat to dry; they can self-ignite.",
+      "image": "/projects/floating-shelf/step-3.jpg"
+     },
+     {
+      "title": "Mount on the hidden cleat",
+      "text": "Screw the cleat into studs, slide the shelf over it and check it is level.",
+      "tip": "Test-fit before finishing.",
+      "image": "/projects/floating-shelf/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "standard",
+    "extraCost": 0,
+    "durability": "10+ yrs",
+    "difficulty": "Easy",
+    "time": "3 hrs",
+    "pros": [
+     "Best balance of cost and quality",
+     "Good for most homes"
+    ],
+    "cons": [
+     "Mid-range price",
+     "Some tools needed"
+    ],
+    "materials": [
+     {
+      "name": "Oak-veneer plywood box",
+      "qty": "1 shelf, about 1.2 m",
+      "purpose": "Thick shelf body",
+      "cost": 60
+     },
+     {
+      "name": "Steel hidden cleat",
+      "qty": "1",
+      "purpose": "Invisible support",
+      "cost": 14
+     },
+     {
+      "name": "Structural screws",
+      "qty": "1 set",
+      "purpose": "Mounting",
+      "cost": 8
+     },
+     {
+      "name": "Black stain",
+      "qty": "1 can",
+      "purpose": "Black or dark finish",
+      "cost": 14
+     }
+    ],
+    "steps": [
+     {
+      "title": "Mark the wall",
+      "text": "Find studs and mark a level line for the hidden cleat.",
+      "safety": "Check for wires and pipes before drilling.",
+      "tip": "Preview with painter's tape."
+     },
+     {
+      "title": "Build and sand the shelf box",
+      "text": "Make a hollow box from a frame and two skins, leaving a slot at the back for the cleat; sand the edges smooth.",
+      "safety": "Wear a dust mask when sanding.",
+      "image": "/projects/floating-shelf/step-2.jpg"
+     },
+     {
+      "title": "Finish in black",
+      "text": "Apply thin coats of black paint, stain or oil and let each coat cure fully.",
+      "safety": "Lay oily rags flat to dry; they can self-ignite.",
+      "image": "/projects/floating-shelf/step-3.jpg"
+     },
+     {
+      "title": "Mount on the hidden cleat",
+      "text": "Screw the cleat into studs, slide the shelf over it and check it is level.",
+      "tip": "Test-fit before finishing.",
+      "image": "/projects/floating-shelf/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "premium",
+    "extraCost": 0,
+    "durability": "25+ yrs",
+    "difficulty": "Medium",
+    "time": "4 hrs",
+    "pros": [
+     "Longest life",
+     "Best finish and strength"
+    ],
+    "cons": [
+     "Highest cost",
+     "Needs more skill"
+    ],
+    "materials": [
+     {
+      "name": "Solid walnut slab",
+      "qty": "1 shelf, about 1.2 m",
+      "purpose": "Thick shelf body",
+      "cost": 110
+     },
+     {
+      "name": "Heavy concealed bracket",
+      "qty": "1",
+      "purpose": "Invisible support",
+      "cost": 30
+     },
+     {
+      "name": "Toggle bolts",
+      "qty": "1 set",
+      "purpose": "Mounting",
+      "cost": 12
+     },
+     {
+      "name": "Black hardwax oil",
+      "qty": "1 can",
+      "purpose": "Black or dark finish",
+      "cost": 24
+     }
+    ],
+    "steps": [
+     {
+      "title": "Mark the wall",
+      "text": "Find studs and mark a level line for the hidden cleat.",
+      "safety": "Check for wires and pipes before drilling.",
+      "tip": "Preview with painter's tape."
+     },
+     {
+      "title": "Build and sand the shelf box",
+      "text": "Make a hollow box from a frame and two skins, leaving a slot at the back for the cleat; sand the edges smooth.",
+      "safety": "Wear a dust mask when sanding.",
+      "image": "/projects/floating-shelf/step-2.jpg"
+     },
+     {
+      "title": "Finish in black",
+      "text": "Apply thin coats of black paint, stain or oil and let each coat cure fully.",
+      "safety": "Lay oily rags flat to dry; they can self-ignite.",
+      "image": "/projects/floating-shelf/step-3.jpg"
+     },
+     {
+      "title": "Mount on the hidden cleat",
+      "text": "Screw the cleat into studs, slide the shelf over it and check it is level.",
+      "tip": "Test-fit before finishing.",
+      "image": "/projects/floating-shelf/step-4.jpg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "raised-planter",
+  "title": "Raised Garden Planter",
+  "description": "A row of five connected planter boxes with brown woven-look panels and black corner posts, sized for peppers, tomatoes, carrots and potatoes.",
+  "category": "Garden",
+  "image": "/projects/raised-planter/cover.jpg",
+  "gallery": [
+   "/projects/raised-planter/ref-1.jpg"
+  ],
+  "difficulty": "Easy",
+  "time": "2–3 hrs",
+  "featured": false,
+  "tools": [
+   "Rubber mallet",
+   "Tape measure",
+   "Level",
+   "Trowel"
+  ],
+  "safety": [
+   "Wear gloves when handling soil",
+   "Lift soil with your knees",
+   "Wear a dust mask with dry potting mix"
+  ],
+  "mistakes": [
+   "Too little sun",
+   "Overfilling above the rim",
+   "Blocking the drainage holes",
+   "Uneven ground"
+  ],
+  "alternatives": [
+   "Wooden boards",
+   "Galvanized metal panels",
+   "Concrete blocks"
+  ],
+  "tips": [
+   "Stake tomatoes early",
+   "Water at soil level in the morning"
+  ],
+  "createdAt": "2026-09-24T00:00:00.000Z",
+  "versions": [
+   {
+    "tier": "budget",
+    "extraCost": 0,
+    "durability": "3–5 yrs",
+    "difficulty": "Easy",
+    "time": "2 hrs",
+    "pros": [
+     "Lowest cost",
+     "Quick to build"
+    ],
+    "cons": [
+     "Shorter lifespan",
+     "Basic finish"
+    ],
+    "materials": [
+     {
+      "name": "Interlocking plastic wall panels",
+      "qty": "20 (4 per box)",
+      "purpose": "Box walls",
+      "cost": 60
+     },
+     {
+      "name": "Corner connector posts",
+      "qty": "24",
+      "purpose": "Join panels and boxes",
+      "cost": 20
+     },
+     {
+      "name": "Drainage mesh",
+      "qty": "1 roll",
+      "purpose": "Drainage and soil barrier",
+      "cost": 8
+     },
+     {
+      "name": "Topsoil and compost",
+      "qty": "about 0.9 m³",
+      "purpose": "Growing medium",
+      "cost": 40
+     }
+    ],
+    "steps": [
+     {
+      "title": "Choose and level the site",
+      "text": "Pick a spot with 6+ hours of sun and level the ground.",
+      "tip": "Mark the row with stakes."
+     },
+     {
+      "title": "Join panels and corner posts",
+      "text": "Press the panels into the corner posts to form a square box; tap them home with a rubber mallet.",
+      "tip": "Line up the panel ribs before pressing.",
+      "image": "/projects/raised-planter/step-2.jpg"
+     },
+     {
+      "title": "Connect the boxes in a row",
+      "text": "Clip the boxes together side by side and check the row is straight."
+     },
+     {
+      "title": "Line, fill and plant",
+      "text": "Add drainage mesh, fill with soil and plant peppers, tomatoes, carrots and potatoes.",
+      "safety": "Wear gloves and lift soil with your knees.",
+      "tip": "Group plants with similar needs in one box.",
+      "image": "/projects/raised-planter/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "standard",
+    "extraCost": 0,
+    "durability": "8–10 yrs",
+    "difficulty": "Easy",
+    "time": "2.5 hrs",
+    "pros": [
+     "Best balance of cost and quality",
+     "Good for most homes"
+    ],
+    "cons": [
+     "Mid-range price",
+     "Some tools needed"
+    ],
+    "materials": [
+     {
+      "name": "Thick modular polypropylene panels",
+      "qty": "20 (4 per box)",
+      "purpose": "Box walls",
+      "cost": 110
+     },
+     {
+      "name": "Black connector posts",
+      "qty": "24",
+      "purpose": "Join panels and boxes",
+      "cost": 36
+     },
+     {
+      "name": "Landscape fabric liner",
+      "qty": "1 roll",
+      "purpose": "Drainage and soil barrier",
+      "cost": 14
+     },
+     {
+      "name": "Raised-bed soil mix",
+      "qty": "about 0.9 m³",
+      "purpose": "Growing medium",
+      "cost": 70
+     }
+    ],
+    "steps": [
+     {
+      "title": "Choose and level the site",
+      "text": "Pick a spot with 6+ hours of sun and level the ground.",
+      "tip": "Mark the row with stakes."
+     },
+     {
+      "title": "Join panels and corner posts",
+      "text": "Press the panels into the corner posts to form a square box; tap them home with a rubber mallet.",
+      "tip": "Line up the panel ribs before pressing.",
+      "image": "/projects/raised-planter/step-2.jpg"
+     },
+     {
+      "title": "Connect the boxes in a row",
+      "text": "Clip the boxes together side by side and check the row is straight."
+     },
+     {
+      "title": "Line, fill and plant",
+      "text": "Add drainage mesh, fill with soil and plant peppers, tomatoes, carrots and potatoes.",
+      "safety": "Wear gloves and lift soil with your knees.",
+      "tip": "Group plants with similar needs in one box.",
+      "image": "/projects/raised-planter/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "premium",
+    "extraCost": 0,
+    "durability": "15+ yrs",
+    "difficulty": "Easy",
+    "time": "3 hrs",
+    "pros": [
+     "Longest life",
+     "Best finish and strength"
+    ],
+    "cons": [
+     "Highest cost",
+     "Needs more skill"
+    ],
+    "materials": [
+     {
+      "name": "Reinforced recycled-resin panels",
+      "qty": "20 (4 per box)",
+      "purpose": "Box walls",
+      "cost": 190
+     },
+     {
+      "name": "Reinforced corner posts",
+      "qty": "24",
+      "purpose": "Join panels and boxes",
+      "cost": 60
+     },
+     {
+      "name": "Fabric liner and gravel",
+      "qty": "1 roll",
+      "purpose": "Drainage and soil barrier",
+      "cost": 26
+     },
+     {
+      "name": "Premium raised-bed mix",
+      "qty": "about 0.9 m³",
+      "purpose": "Growing medium",
+      "cost": 120
+     }
+    ],
+    "steps": [
+     {
+      "title": "Choose and level the site",
+      "text": "Pick a spot with 6+ hours of sun and level the ground.",
+      "tip": "Mark the row with stakes."
+     },
+     {
+      "title": "Join panels and corner posts",
+      "text": "Press the panels into the corner posts to form a square box; tap them home with a rubber mallet.",
+      "tip": "Line up the panel ribs before pressing.",
+      "image": "/projects/raised-planter/step-2.jpg"
+     },
+     {
+      "title": "Connect the boxes in a row",
+      "text": "Clip the boxes together side by side and check the row is straight."
+     },
+     {
+      "title": "Line, fill and plant",
+      "text": "Add drainage mesh, fill with soil and plant peppers, tomatoes, carrots and potatoes.",
+      "safety": "Wear gloves and lift soil with your knees.",
+      "tip": "Group plants with similar needs in one box.",
+      "image": "/projects/raised-planter/step-4.jpg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "workbench",
+  "title": "Garage Workbench",
+  "description": "A rolling 1.5 m workbench with a steel frame, locking casters and a hardwood butcher-block top, with a pegboard wall above for tools.",
+  "category": "Workshop",
+  "image": "/projects/workbench/cover.jpg",
+  "gallery": [
+   "/projects/workbench/ref-1.jpg"
+  ],
+  "difficulty": "Medium",
+  "time": "1 day",
+  "featured": false,
+  "tools": [
+   "Angle grinder or metal saw",
+   "Drill with metal bits",
+   "Wrench set",
+   "Clamps",
+   "Square and level",
+   "Sander"
+  ],
+  "safety": [
+   "Wear eye and ear protection and gloves",
+   "Lock the casters whenever you work",
+   "Use welding PPE if you weld"
+  ],
+  "mistakes": [
+   "Frame not square",
+   "Uneven caster heights",
+   "Leaving the wood top unsealed",
+   "Overloading the casters"
+  ],
+  "alternatives": [
+   "Pre-made steel workbench frame",
+   "Solid-core door as a top",
+   "Laminated plywood top"
+  ],
+  "tips": [
+   "Add a pegboard wall",
+   "Oil the top before first use",
+   "Fit adjustable feet if the floor slopes"
+  ],
+  "createdAt": "2026-09-24T00:00:00.000Z",
+  "versions": [
+   {
+    "tier": "budget",
+    "extraCost": 0,
+    "durability": "5 yrs",
+    "difficulty": "Medium",
+    "time": "5 hrs",
+    "pros": [
+     "Lowest cost",
+     "Quick to build"
+    ],
+    "cons": [
+     "Shorter lifespan",
+     "Basic finish"
+    ],
+    "materials": [
+     {
+      "name": "Square steel tube frame parts",
+      "qty": "1 set",
+      "purpose": "Legs, rails and stretchers",
+      "cost": 70
+     },
+     {
+      "name": "Pine butcher-block strips",
+      "qty": "1 top, about 1.5 m",
+      "purpose": "Work surface",
+      "cost": 60
+     },
+     {
+      "name": "Fixed casters",
+      "qty": "4",
+      "purpose": "Makes the bench mobile",
+      "cost": 16
+     },
+     {
+      "name": "Bolts and brackets",
+      "qty": "1 set",
+      "purpose": "Frame and top fixing",
+      "cost": 12
+     },
+     {
+      "name": "Basic oil",
+      "qty": "1 can",
+      "purpose": "Seals the wood top",
+      "cost": 8
+     },
+     {
+      "name": "Pegboard and hooks",
+      "qty": "1 set",
+      "purpose": "Tool storage on the wall",
+      "cost": 20
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the steel tube",
+      "text": "Cut legs, rails and stretchers to length from square steel tube; deburr every cut end.",
+      "safety": "Wear eye and ear protection and gloves when cutting steel.",
+      "tip": "Cut identical parts together for matching lengths."
+     },
+     {
+      "title": "Assemble the steel frame",
+      "text": "Bolt (or weld) the legs and rails into two end frames, then join them with long stretchers. Check for square.",
+      "safety": "If welding, use a welding helmet and keep flammables clear.",
+      "tip": "Diagonal measurements match when square.",
+      "image": "/projects/workbench/step-2.jpg"
+     },
+     {
+      "title": "Fit the casters",
+      "text": "Bolt a caster to the foot of each leg and check the frame sits level.",
+      "safety": "Lock all casters before loading the bench.",
+      "tip": "Locking swivel casters suit a rolling bench."
+     },
+     {
+      "title": "Make and fit the butcher-block top",
+      "text": "Glue and clamp hardwood strips into a solid top, sand smooth, oil it and fix it to the frame with brackets.",
+      "tip": "Add a pegboard above the bench for hanging tools.",
+      "image": "/projects/workbench/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "standard",
+    "extraCost": 0,
+    "durability": "15 yrs",
+    "difficulty": "Medium",
+    "time": "6 hrs",
+    "pros": [
+     "Best balance of cost and quality",
+     "Good for most homes"
+    ],
+    "cons": [
+     "Mid-range price",
+     "Some tools needed"
+    ],
+    "materials": [
+     {
+      "name": "Powder-coated steel tube kit",
+      "qty": "1 set",
+      "purpose": "Legs, rails and stretchers",
+      "cost": 120
+     },
+     {
+      "name": "Rubberwood butcher-block top",
+      "qty": "1 top, about 1.5 m",
+      "purpose": "Work surface",
+      "cost": 130
+     },
+     {
+      "name": "Locking swivel casters",
+      "qty": "4",
+      "purpose": "Makes the bench mobile",
+      "cost": 28
+     },
+     {
+      "name": "Bolts, brackets, top fixings",
+      "qty": "1 set",
+      "purpose": "Frame and top fixing",
+      "cost": 20
+     },
+     {
+      "name": "Food-safe oil",
+      "qty": "1 can",
+      "purpose": "Seals the wood top",
+      "cost": 14
+     },
+     {
+      "name": "Steel pegboard and hooks",
+      "qty": "1 set",
+      "purpose": "Tool storage on the wall",
+      "cost": 30
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the steel tube",
+      "text": "Cut legs, rails and stretchers to length from square steel tube; deburr every cut end.",
+      "safety": "Wear eye and ear protection and gloves when cutting steel.",
+      "tip": "Cut identical parts together for matching lengths."
+     },
+     {
+      "title": "Assemble the steel frame",
+      "text": "Bolt (or weld) the legs and rails into two end frames, then join them with long stretchers. Check for square.",
+      "safety": "If welding, use a welding helmet and keep flammables clear.",
+      "tip": "Diagonal measurements match when square.",
+      "image": "/projects/workbench/step-2.jpg"
+     },
+     {
+      "title": "Fit the casters",
+      "text": "Bolt a caster to the foot of each leg and check the frame sits level.",
+      "safety": "Lock all casters before loading the bench.",
+      "tip": "Locking swivel casters suit a rolling bench."
+     },
+     {
+      "title": "Make and fit the butcher-block top",
+      "text": "Glue and clamp hardwood strips into a solid top, sand smooth, oil it and fix it to the frame with brackets.",
+      "tip": "Add a pegboard above the bench for hanging tools.",
+      "image": "/projects/workbench/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "premium",
+    "extraCost": 0,
+    "durability": "30+ yrs",
+    "difficulty": "Hard",
+    "time": "8 hrs",
+    "pros": [
+     "Longest life",
+     "Best finish and strength"
+    ],
+    "cons": [
+     "Highest cost",
+     "Needs more skill"
+    ],
+    "materials": [
+     {
+      "name": "Heavy-gauge steel frame, welded",
+      "qty": "1 set",
+      "purpose": "Legs, rails and stretchers",
+      "cost": 210
+     },
+     {
+      "name": "Solid maple butcher-block top",
+      "qty": "1 top, about 1.5 m",
+      "purpose": "Work surface",
+      "cost": 260
+     },
+     {
+      "name": "Heavy-duty locking casters",
+      "qty": "4",
+      "purpose": "Makes the bench mobile",
+      "cost": 55
+     },
+     {
+      "name": "Stainless bolts and brackets",
+      "qty": "1 set",
+      "purpose": "Frame and top fixing",
+      "cost": 32
+     },
+     {
+      "name": "Hardwax oil",
+      "qty": "1 can",
+      "purpose": "Seals the wood top",
+      "cost": 25
+     },
+     {
+      "name": "Steel pegboard, rails and bins",
+      "qty": "1 set",
+      "purpose": "Tool storage on the wall",
+      "cost": 55
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the steel tube",
+      "text": "Cut legs, rails and stretchers to length from square steel tube; deburr every cut end.",
+      "safety": "Wear eye and ear protection and gloves when cutting steel.",
+      "tip": "Cut identical parts together for matching lengths."
+     },
+     {
+      "title": "Assemble the steel frame",
+      "text": "Bolt (or weld) the legs and rails into two end frames, then join them with long stretchers. Check for square.",
+      "safety": "If welding, use a welding helmet and keep flammables clear.",
+      "tip": "Diagonal measurements match when square.",
+      "image": "/projects/workbench/step-2.jpg"
+     },
+     {
+      "title": "Fit the casters",
+      "text": "Bolt a caster to the foot of each leg and check the frame sits level.",
+      "safety": "Lock all casters before loading the bench.",
+      "tip": "Locking swivel casters suit a rolling bench."
+     },
+     {
+      "title": "Make and fit the butcher-block top",
+      "text": "Glue and clamp hardwood strips into a solid top, sand smooth, oil it and fix it to the frame with brackets.",
+      "tip": "Add a pegboard above the bench for hanging tools.",
+      "image": "/projects/workbench/step-4.jpg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "shoe-rack",
+  "title": "Entryway Shoe Rack",
+  "description": "A slim three-shelf rack with a black steel frame, mesh shelves and a wood-look top for bags and accessories.",
+  "category": "Storage",
+  "image": "/projects/shoe-rack/cover.jpg",
+  "gallery": [
+   "/projects/shoe-rack/ref-1.jpg"
+  ],
+  "difficulty": "Easy",
+  "time": "3–4 hrs",
+  "featured": false,
+  "tools": [
+   "Metal saw",
+   "Drill with metal bit",
+   "Wrench set",
+   "File",
+   "Tape measure"
+  ],
+  "safety": [
+   "Wear gloves when handling cut metal",
+   "Wear eye protection when cutting"
+  ],
+  "mistakes": [
+   "Uneven shelf heights",
+   "Sharp cut edges",
+   "Shelves too close for boots"
+  ],
+  "alternatives": [
+   "Flat-pack steel shelf kit",
+   "Wooden slat shelves",
+   "Cane or wicker shelves"
+  ],
+  "tips": [
+   "Keep the top for bags and accessories",
+   "Space shelves to fit your tallest shoes"
+  ],
+  "createdAt": "2026-09-24T00:00:00.000Z",
+  "versions": [
+   {
+    "tier": "budget",
+    "extraCost": 0,
+    "durability": "2–4 yrs",
+    "difficulty": "Easy",
+    "time": "2 hrs",
+    "pros": [
+     "Lowest cost",
+     "Quick to build"
+    ],
+    "cons": [
+     "Shorter lifespan",
+     "Basic finish"
+    ],
+    "materials": [
+     {
+      "name": "Square steel tube",
+      "qty": "1 set",
+      "purpose": "Frame uprights and rails",
+      "cost": 28
+     },
+     {
+      "name": "Wire mesh panels",
+      "qty": "3",
+      "purpose": "Shoe shelves",
+      "cost": 18
+     },
+     {
+      "name": "Plywood top",
+      "qty": "1",
+      "purpose": "Top surface",
+      "cost": 12
+     },
+     {
+      "name": "Bolts and nuts",
+      "qty": "1 set",
+      "purpose": "Assembly",
+      "cost": 8
+     },
+     {
+      "name": "Rubber feet",
+      "qty": "4",
+      "purpose": "Protects floors",
+      "cost": 4
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the steel tube",
+      "text": "Cut four uprights and the side rails to length; file the edges.",
+      "safety": "Wear gloves and eye protection when cutting metal."
+     },
+     {
+      "title": "Prepare the shelves and top",
+      "text": "Cut three mesh or perforated shelves and the wood-look top board to size.",
+      "safety": "Deburr the cut edges of the mesh.",
+      "tip": "Slightly round the top edge."
+     },
+     {
+      "title": "Assemble the frame",
+      "text": "Bolt the uprights and rails into two side frames, then join them and check they are square.",
+      "tip": "Fit every bolt loosely first, then tighten.",
+      "image": "/projects/shoe-rack/step-3.jpg"
+     },
+     {
+      "title": "Fit the shelves and top",
+      "text": "Slot the shelves in at even heights, fix the top board and add rubber feet.",
+      "tip": "Leave enough height for boots on the lowest shelf.",
+      "image": "/projects/shoe-rack/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "standard",
+    "extraCost": 0,
+    "durability": "10 yrs",
+    "difficulty": "Medium",
+    "time": "2.5 hrs",
+    "pros": [
+     "Best balance of cost and quality",
+     "Good for most homes"
+    ],
+    "cons": [
+     "Mid-range price",
+     "Some tools needed"
+    ],
+    "materials": [
+     {
+      "name": "Powder-coated steel tube",
+      "qty": "1 set",
+      "purpose": "Frame uprights and rails",
+      "cost": 45
+     },
+     {
+      "name": "Perforated mesh shelves",
+      "qty": "3",
+      "purpose": "Shoe shelves",
+      "cost": 30
+     },
+     {
+      "name": "Laminated wood-look board",
+      "qty": "1",
+      "purpose": "Top surface",
+      "cost": 20
+     },
+     {
+      "name": "Bolts, nuts and caps",
+      "qty": "1 set",
+      "purpose": "Assembly",
+      "cost": 12
+     },
+     {
+      "name": "Rubber feet",
+      "qty": "4",
+      "purpose": "Protects floors",
+      "cost": 6
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the steel tube",
+      "text": "Cut four uprights and the side rails to length; file the edges.",
+      "safety": "Wear gloves and eye protection when cutting metal."
+     },
+     {
+      "title": "Prepare the shelves and top",
+      "text": "Cut three mesh or perforated shelves and the wood-look top board to size.",
+      "safety": "Deburr the cut edges of the mesh.",
+      "tip": "Slightly round the top edge."
+     },
+     {
+      "title": "Assemble the frame",
+      "text": "Bolt the uprights and rails into two side frames, then join them and check they are square.",
+      "tip": "Fit every bolt loosely first, then tighten.",
+      "image": "/projects/shoe-rack/step-3.jpg"
+     },
+     {
+      "title": "Fit the shelves and top",
+      "text": "Slot the shelves in at even heights, fix the top board and add rubber feet.",
+      "tip": "Leave enough height for boots on the lowest shelf.",
+      "image": "/projects/shoe-rack/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "premium",
+    "extraCost": 0,
+    "durability": "20+ yrs",
+    "difficulty": "Medium",
+    "time": "3 hrs",
+    "pros": [
+     "Longest life",
+     "Best finish and strength"
+    ],
+    "cons": [
+     "Highest cost",
+     "Needs more skill"
+    ],
+    "materials": [
+     {
+      "name": "Powder-coated steel, welded joints",
+      "qty": "1 set",
+      "purpose": "Frame uprights and rails",
+      "cost": 80
+     },
+     {
+      "name": "Perforated steel shelves",
+      "qty": "3",
+      "purpose": "Shoe shelves",
+      "cost": 50
+     },
+     {
+      "name": "Oak-veneer board",
+      "qty": "1",
+      "purpose": "Top surface",
+      "cost": 40
+     },
+     {
+      "name": "Stainless hardware",
+      "qty": "1 set",
+      "purpose": "Assembly",
+      "cost": 18
+     },
+     {
+      "name": "Felt-lined feet",
+      "qty": "4",
+      "purpose": "Protects floors",
+      "cost": 8
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the steel tube",
+      "text": "Cut four uprights and the side rails to length; file the edges.",
+      "safety": "Wear gloves and eye protection when cutting metal."
+     },
+     {
+      "title": "Prepare the shelves and top",
+      "text": "Cut three mesh or perforated shelves and the wood-look top board to size.",
+      "safety": "Deburr the cut edges of the mesh.",
+      "tip": "Slightly round the top edge."
+     },
+     {
+      "title": "Assemble the frame",
+      "text": "Bolt the uprights and rails into two side frames, then join them and check they are square.",
+      "tip": "Fit every bolt loosely first, then tighten.",
+      "image": "/projects/shoe-rack/step-3.jpg"
+     },
+     {
+      "title": "Fit the shelves and top",
+      "text": "Slot the shelves in at even heights, fix the top board and add rubber feet.",
+      "tip": "Leave enough height for boots on the lowest shelf.",
+      "image": "/projects/shoe-rack/step-4.jpg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "coffee-table",
+  "title": "Mid-Century Coffee Table",
+  "description": "A low solid-wood coffee table with a rounded top, curved arch legs and a lower shelf.",
+  "category": "Furniture",
+  "image": "/projects/coffee-table/cover.jpg",
+  "gallery": [
+   "/projects/coffee-table/ref-1.jpg"
+  ],
+  "difficulty": "Hard",
+  "time": "1–2 days",
+  "featured": false,
+  "tools": [
+   "Jigsaw or bandsaw",
+   "Router with round-over bit",
+   "Sander",
+   "Clamps",
+   "Drill and doweling jig"
+  ],
+  "safety": [
+   "Wear a dust mask when sanding",
+   "Wear eye protection when routing and sawing",
+   "Lay oily rags flat to dry"
+  ],
+  "mistakes": [
+   "Curves left rough",
+   "Weak joints at the arch legs",
+   "Uneven legs causing wobble",
+   "Top warping from one-sided finishing"
+  ],
+  "alternatives": [
+   "Plywood laminated legs",
+   "Pre-cut table legs",
+   "Veneered MDF top"
+  ],
+  "tips": [
+   "Make a cardboard leg template first",
+   "Finish both sides of the top"
+  ],
+  "createdAt": "2026-09-24T00:00:00.000Z",
+  "versions": [
+   {
+    "tier": "budget",
+    "extraCost": 0,
+    "durability": "4 yrs",
+    "difficulty": "Medium",
+    "time": "5 hrs",
+    "pros": [
+     "Lowest cost",
+     "Quick to build"
+    ],
+    "cons": [
+     "Shorter lifespan",
+     "Basic finish"
+    ],
+    "materials": [
+     {
+      "name": "Pine panel",
+      "qty": "1 top, about 110×55 cm",
+      "purpose": "Rounded tabletop",
+      "cost": 40
+     },
+     {
+      "name": "Laminated pine arch legs",
+      "qty": "4",
+      "purpose": "Curved arch legs",
+      "cost": 30
+     },
+     {
+      "name": "Plywood shelf",
+      "qty": "1",
+      "purpose": "Lower shelf",
+      "cost": 15
+     },
+     {
+      "name": "Screws and dowels",
+      "qty": "1 set",
+      "purpose": "Joints and fixings",
+      "cost": 10
+     },
+     {
+      "name": "Stain and varnish",
+      "qty": "1 can",
+      "purpose": "Warm wood finish",
+      "cost": 12
+     }
+    ],
+    "steps": [
+     {
+      "title": "Glue up and shape the rounded top",
+      "text": "Glue solid boards edge to edge, clamp flat, then round the corners and edges with a router.",
+      "safety": "Wear a dust mask and eye protection when routing.",
+      "tip": "Alternate grain direction to reduce warping.",
+      "image": "/projects/coffee-table/step-1.jpg"
+     },
+     {
+      "title": "Cut the curved legs",
+      "text": "Trace the arch pattern onto the leg blanks and cut the curves with a jigsaw or bandsaw; sand smooth.",
+      "safety": "Clamp the workpiece and keep hands clear of the blade.",
+      "tip": "Make one template and copy it for every leg."
+     },
+     {
+      "title": "Build the lower shelf",
+      "text": "Cut the shelf to size, round its edges and join it to the legs with dowels and glue.",
+      "tip": "Dry-fit before gluing."
+     },
+     {
+      "title": "Assemble the base and fit the top",
+      "text": "Join the legs and shelf into the base, fix the top from below, then oil or varnish the whole table.",
+      "tip": "Check for wobble and adjust the feet.",
+      "image": "/projects/coffee-table/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "standard",
+    "extraCost": 0,
+    "durability": "12 yrs",
+    "difficulty": "Hard",
+    "time": "7 hrs",
+    "pros": [
+     "Best balance of cost and quality",
+     "Good for most homes"
+    ],
+    "cons": [
+     "Mid-range price",
+     "Some tools needed"
+    ],
+    "materials": [
+     {
+      "name": "Oak or acacia panel",
+      "qty": "1 top, about 110×55 cm",
+      "purpose": "Rounded tabletop",
+      "cost": 105
+     },
+     {
+      "name": "Solid oak arch legs",
+      "qty": "4",
+      "purpose": "Curved arch legs",
+      "cost": 60
+     },
+     {
+      "name": "Hardwood shelf",
+      "qty": "1",
+      "purpose": "Lower shelf",
+      "cost": 35
+     },
+     {
+      "name": "Dowels, glue and bolts",
+      "qty": "1 set",
+      "purpose": "Joints and fixings",
+      "cost": 16
+     },
+     {
+      "name": "Oil",
+      "qty": "1 can",
+      "purpose": "Warm wood finish",
+      "cost": 18
+     }
+    ],
+    "steps": [
+     {
+      "title": "Glue up and shape the rounded top",
+      "text": "Glue solid boards edge to edge, clamp flat, then round the corners and edges with a router.",
+      "safety": "Wear a dust mask and eye protection when routing.",
+      "tip": "Alternate grain direction to reduce warping.",
+      "image": "/projects/coffee-table/step-1.jpg"
+     },
+     {
+      "title": "Cut the curved legs",
+      "text": "Trace the arch pattern onto the leg blanks and cut the curves with a jigsaw or bandsaw; sand smooth.",
+      "safety": "Clamp the workpiece and keep hands clear of the blade.",
+      "tip": "Make one template and copy it for every leg."
+     },
+     {
+      "title": "Build the lower shelf",
+      "text": "Cut the shelf to size, round its edges and join it to the legs with dowels and glue.",
+      "tip": "Dry-fit before gluing."
+     },
+     {
+      "title": "Assemble the base and fit the top",
+      "text": "Join the legs and shelf into the base, fix the top from below, then oil or varnish the whole table.",
+      "tip": "Check for wobble and adjust the feet.",
+      "image": "/projects/coffee-table/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "premium",
+    "extraCost": 0,
+    "durability": "30+ yrs",
+    "difficulty": "Hard",
+    "time": "9 hrs",
+    "pros": [
+     "Longest life",
+     "Best finish and strength"
+    ],
+    "cons": [
+     "Highest cost",
+     "Needs more skill"
+    ],
+    "materials": [
+     {
+      "name": "Solid acacia panel",
+      "qty": "1 top, about 110×55 cm",
+      "purpose": "Rounded tabletop",
+      "cost": 240
+     },
+     {
+      "name": "Solid acacia arch legs",
+      "qty": "4",
+      "purpose": "Curved arch legs",
+      "cost": 140
+     },
+     {
+      "name": "Solid hardwood shelf",
+      "qty": "1",
+      "purpose": "Lower shelf",
+      "cost": 70
+     },
+     {
+      "name": "Hidden joinery hardware",
+      "qty": "1 set",
+      "purpose": "Joints and fixings",
+      "cost": 24
+     },
+     {
+      "name": "Hardwax oil",
+      "qty": "1 can",
+      "purpose": "Warm wood finish",
+      "cost": 26
+     }
+    ],
+    "steps": [
+     {
+      "title": "Glue up and shape the rounded top",
+      "text": "Glue solid boards edge to edge, clamp flat, then round the corners and edges with a router.",
+      "safety": "Wear a dust mask and eye protection when routing.",
+      "tip": "Alternate grain direction to reduce warping.",
+      "image": "/projects/coffee-table/step-1.jpg"
+     },
+     {
+      "title": "Cut the curved legs",
+      "text": "Trace the arch pattern onto the leg blanks and cut the curves with a jigsaw or bandsaw; sand smooth.",
+      "safety": "Clamp the workpiece and keep hands clear of the blade.",
+      "tip": "Make one template and copy it for every leg."
+     },
+     {
+      "title": "Build the lower shelf",
+      "text": "Cut the shelf to size, round its edges and join it to the legs with dowels and glue.",
+      "tip": "Dry-fit before gluing."
+     },
+     {
+      "title": "Assemble the base and fit the top",
+      "text": "Join the legs and shelf into the base, fix the top from below, then oil or varnish the whole table.",
+      "tip": "Check for wobble and adjust the feet.",
+      "image": "/projects/coffee-table/step-4.jpg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "picture-frame-set",
+  "title": "Gallery Frame Set",
+  "description": "Three wooden frames in a weathered gray-brown finish with wide white mats, hung together as a gallery wall.",
+  "category": "Decor",
+  "image": "/projects/picture-frame-set/cover.jpg",
+  "gallery": [
+   "/projects/picture-frame-set/ref-1.jpg"
+  ],
+  "difficulty": "Easy",
+  "time": "3–4 hrs",
+  "featured": false,
+  "tools": [
+   "Mitre saw",
+   "Corner clamps",
+   "Mat cutter",
+   "Sander"
+  ],
+  "safety": [
+   "Wear eye protection when cutting",
+   "Handle glass and mat blades carefully",
+   "Use wall anchors for heavy frames"
+  ],
+  "mistakes": [
+   "Uneven mat borders",
+   "Inaccurate mitres",
+   "Too much glue squeeze-out"
+  ],
+  "alternatives": [
+   "Pre-cut frame kits",
+   "Painted MDF moulding"
+  ],
+  "tips": [
+   "Plan the layout with paper templates",
+   "Use white mats to unify different prints"
+  ],
+  "createdAt": "2026-09-24T00:00:00.000Z",
+  "versions": [
+   {
+    "tier": "budget",
+    "extraCost": 0,
+    "durability": "2 yrs",
+    "difficulty": "Easy",
+    "time": "2 hrs",
+    "pros": [
+     "Lowest cost",
+     "Quick to build"
+    ],
+    "cons": [
+     "Shorter lifespan",
+     "Basic finish"
+    ],
+    "materials": [
+     {
+      "name": "Pine moulding",
+      "qty": "3 frames (large, medium, small)",
+      "purpose": "Frame sides",
+      "cost": 18
+     },
+     {
+      "name": "Standard white mat board",
+      "qty": "3",
+      "purpose": "Wide white border",
+      "cost": 9
+     },
+     {
+      "name": "Acrylic sheet",
+      "qty": "3",
+      "purpose": "Front glazing",
+      "cost": 9
+     },
+     {
+      "name": "Backing board and clips",
+      "qty": "3 sets",
+      "purpose": "Back and hanging",
+      "cost": 6
+     },
+     {
+      "name": "Paint wash",
+      "qty": "1 small can",
+      "purpose": "Weathered wood finish",
+      "cost": 6
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the mitres",
+      "text": "Cut 45° mitres in the moulding for three frames of different sizes.",
+      "safety": "Clamp the work and keep fingers clear of the blade."
+     },
+     {
+      "title": "Glue the corners",
+      "text": "Glue each corner and hold it square with corner clamps until dry.",
+      "tip": "Wipe glue squeeze-out right away."
+     },
+     {
+      "title": "Stain the frames and cut the mats",
+      "text": "Apply a gray-brown stain or wax, then cut white mats with a wide border around each print.",
+      "safety": "Use a guarded mat cutter and cut away from your hand.",
+      "tip": "Keep the mat border even on all sides.",
+      "image": "/projects/picture-frame-set/step-3.jpg"
+     },
+     {
+      "title": "Mount and hang the gallery",
+      "text": "Fit the mat, print, glazing and backing, then arrange the frames on the wall with paper templates.",
+      "tip": "Leave 5–8 cm between frames.",
+      "image": "/projects/picture-frame-set/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "standard",
+    "extraCost": 0,
+    "durability": "8 yrs",
+    "difficulty": "Easy",
+    "time": "3 hrs",
+    "pros": [
+     "Best balance of cost and quality",
+     "Good for most homes"
+    ],
+    "cons": [
+     "Mid-range price",
+     "Some tools needed"
+    ],
+    "materials": [
+     {
+      "name": "Oak moulding",
+      "qty": "3 frames (large, medium, small)",
+      "purpose": "Frame sides",
+      "cost": 40
+     },
+     {
+      "name": "Acid-free white mats",
+      "qty": "3",
+      "purpose": "Wide white border",
+      "cost": 16
+     },
+     {
+      "name": "Glass",
+      "qty": "3",
+      "purpose": "Front glazing",
+      "cost": 21
+     },
+     {
+      "name": "Backing, clips and hanging hardware",
+      "qty": "3 sets",
+      "purpose": "Back and hanging",
+      "cost": 10
+     },
+     {
+      "name": "Gray-brown stain",
+      "qty": "1 small can",
+      "purpose": "Weathered wood finish",
+      "cost": 10
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the mitres",
+      "text": "Cut 45° mitres in the moulding for three frames of different sizes.",
+      "safety": "Clamp the work and keep fingers clear of the blade."
+     },
+     {
+      "title": "Glue the corners",
+      "text": "Glue each corner and hold it square with corner clamps until dry.",
+      "tip": "Wipe glue squeeze-out right away."
+     },
+     {
+      "title": "Stain the frames and cut the mats",
+      "text": "Apply a gray-brown stain or wax, then cut white mats with a wide border around each print.",
+      "safety": "Use a guarded mat cutter and cut away from your hand.",
+      "tip": "Keep the mat border even on all sides.",
+      "image": "/projects/picture-frame-set/step-3.jpg"
+     },
+     {
+      "title": "Mount and hang the gallery",
+      "text": "Fit the mat, print, glazing and backing, then arrange the frames on the wall with paper templates.",
+      "tip": "Leave 5–8 cm between frames.",
+      "image": "/projects/picture-frame-set/step-4.jpg"
+     }
+    ]
+   },
+   {
+    "tier": "premium",
+    "extraCost": 0,
+    "durability": "20+ yrs",
+    "difficulty": "Medium",
+    "time": "3 hrs",
+    "pros": [
+     "Longest life",
+     "Best finish and strength"
+    ],
+    "cons": [
+     "Highest cost",
+     "Needs more skill"
+    ],
+    "materials": [
+     {
+      "name": "Solid oak or walnut moulding",
+      "qty": "3 frames (large, medium, small)",
+      "purpose": "Frame sides",
+      "cost": 85
+     },
+     {
+      "name": "Museum-grade mats",
+      "qty": "3",
+      "purpose": "Wide white border",
+      "cost": 32
+     },
+     {
+      "name": "Museum glass",
+      "qty": "3",
+      "purpose": "Front glazing",
+      "cost": 60
+     },
+     {
+      "name": "Archival backing and hardware",
+      "qty": "3 sets",
+      "purpose": "Back and hanging",
+      "cost": 14
+     },
+     {
+      "name": "Stain and wax",
+      "qty": "1 small can",
+      "purpose": "Weathered wood finish",
+      "cost": 18
+     }
+    ],
+    "steps": [
+     {
+      "title": "Cut the mitres",
+      "text": "Cut 45° mitres in the moulding for three frames of different sizes.",
+      "safety": "Clamp the work and keep fingers clear of the blade."
+     },
+     {
+      "title": "Glue the corners",
+      "text": "Glue each corner and hold it square with corner clamps until dry.",
+      "tip": "Wipe glue squeeze-out right away."
+     },
+     {
+      "title": "Stain the frames and cut the mats",
+      "text": "Apply a gray-brown stain or wax, then cut white mats with a wide border around each print.",
+      "safety": "Use a guarded mat cutter and cut away from your hand.",
+      "tip": "Keep the mat border even on all sides.",
+      "image": "/projects/picture-frame-set/step-3.jpg"
+     },
+     {
+      "title": "Mount and hang the gallery",
+      "text": "Fit the mat, print, glazing and backing, then arrange the frames on the wall with paper templates.",
+      "tip": "Leave 5–8 cm between frames.",
+      "image": "/projects/picture-frame-set/step-4.jpg"
+     }
+    ]
+   }
+  ]
+ }
+]
