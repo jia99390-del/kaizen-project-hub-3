@@ -1,0 +1,33 @@
+name: Unpack Project
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "kaizen-project-hub-github-ready.zip"
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Unpack project
+        run: |
+          unzip -o kaizen-project-hub-github-ready.zip -d extracted
+          cp -a extracted/. .
+          rm -rf extracted
+          rm -f kaizen-project-hub-github-ready.zip
+
+      - name: Save project files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Unpack Next.js project" || true
+          git push
