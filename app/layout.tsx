@@ -6,7 +6,10 @@ const display = Newsreader({ subsets: ["latin"], variable: "--font-display" });
 const sans = IBM_Plex_Sans({ subsets: ["latin"], weight: ["400", "500", "600"], variable: "--font-sans" });
 export const metadata: Metadata = {
   title: { default: "Kaizen Project Hub", template: "%s | Kaizen Project Hub" },
-  description: "Build-it-yourself guides with budget, standard and premium versions, full material lists and costs.",
+  description: "Build-it-yourself guides with budget, standard and premium versions, full material lists and cost estimates.",
+  verification: {
+    google: "PASTE_YOUR_GOOGLE_CODE_HERE",
+  },
 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
