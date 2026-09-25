@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: { default: "Kaizen Project Hub", template: "%s | Kaizen Project Hub" },
   description: "Build-it-yourself guides with budget, standard and premium versions, full material lists and cost estimates.",
   verification: {
-  google: "xRk5oZdhz6leqvi42vaI0mmXUN8XnlVD4AVSozpv1Mc",
+  google: "<meta name="google-site-verification" content="xRk5oZdhz6Ieqvi42vaIOmnXUN8XnlVD4AVSozpv1Mc" />",
 },
 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
