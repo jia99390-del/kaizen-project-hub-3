@@ -8,8 +8,7 @@ export const metadata: Metadata = {
   title: { default: "Kaizen Project Hub", template: "%s | Kaizen Project Hub" },
   description: "Build-it-yourself guides with budget, standard and premium versions, full material lists and cost estimates.",
   verification: {
-  google: "verification: {
-  google: "xRk5oZdhz6Ieqvi42vaIOmnXUN8XnlVD4AVSozpv1Mc",
+  google:  "xRk5oZdhz6Ieqvi42vaIOmnXUN8XnlVD4AVSozpv1Mc",
 },",
 },
 };
