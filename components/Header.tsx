@@ -40,9 +40,10 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-20 border-b border-line bg-paper/85 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-        <Link href="/" className="font-display text-xl font-semibold">
-          Kaizen Project Hub
-        </Link>
+        <Link href="/" className="flex items-center gap-2 font-display text-xl font-semibold">
+  <img src="/unnamed.jpg" alt="Kaizen Project Hub" className="h-10 w-10 object-contain" />
+  Kaizen Project Hub
+</Link>
 
         <nav className="flex items-center gap-2 text-sm">
           <button
