@@ -1,7 +1,20 @@
+"use client";
 import Link from "next/link";
-import { Project, costRange } from "@/lib/types";
+import { useEffect, useState } from "react";
+import { Project, costRange, Currency } from "@/lib/types";
 export default function ProjectCard({ p }: { p: Project }) {
-  return (
+    const [currency, setCurrency] = useState<Currency>("USD");
+   useEffect(() => {
+    const saved = localStorage.getItem("currency");
+    if (saved === "PKR") setCurrency("PKR");
+         const updateCurrency = () => {
+      const value = localStorage.getItem("currency");
+      setCurrency(value === "PKR" ? "PKR" : "USD");
+    };
+         window.addEventListener("currency-change", updateCurrency);
+         return () => window.removeEventListener("currency-change", updateCurrency);
+       }, []);
+     return (
     <Link href={`/projects/${p.slug}`} className="group overflow-hidden rounded-2xl border border-line bg-card transition duration-300 hover:-translate-y-1 hover:border-blue hover:shadow-xl">
       <div className="aspect-[16/10] overflow-hidden">
         {/* eslint-disable-next-line @next/next/no-img-element */}
