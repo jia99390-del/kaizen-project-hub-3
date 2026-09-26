@@ -24,7 +24,7 @@ export default function ProjectCard({ p }: { p: Project }) {
         <div className="flex items-center justify-between text-xs text-mute"><span>{p.category}</span><span className="rounded-full border border-line px-2 py-0.5">{p.difficulty}</span></div>
         <h3 className="font-display text-xl font-semibold">{p.title}</h3>
         <p className="line-clamp-2 text-sm text-mute">{p.description}</p>
-        <p className="pt-1 text-sm font-semibold text-blue">{costRange(p)}</p>
+        {costRange(p, currency)}
       </div>
     </Link>
   );
