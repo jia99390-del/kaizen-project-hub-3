@@ -14,6 +14,17 @@ export interface Project {
 export const materialsTotal = (v: Version) => v.materials.reduce((s, m) => s + m.cost, 0);
 export const projectTotal = (v: Version) => materialsTotal(v) + v.extraCost;
 export const startingCost = (p: Project) => Math.min(...p.versions.map(projectTotal));
-export const money = (n: number) => `$${n.toFixed(2)}`;
-export const maxCost = (p: Project) => Math.max(...p.versions.map(projectTotal));
-export const costRange = (p: Project) => `${money(startingCost(p))} – ${money(maxCost(p))}`;
+export const USD_TO_PKR = 277;
+
+export type Currency = "USD" | "PKR";
+
+export const money = (n: number, currency: Currency = "USD") =>
+  currency === "PKR"
+    ? `₨${Math.round(n * USD_TO_PKR).toLocaleString()}`
+    : `$${n.toFixed(2)}`;
+
+export const maxCost = (p: Project) =>
+  Math.max(...p.versions.map(projectTotal));
+
+export const costRange = (p: Project, currency: Currency = "USD") =>
+  `${money(startingCost(p), currency)} - ${money(maxCost(p), currency)}`;
