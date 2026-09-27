@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
-import { Version, materialsTotal, projectTotal, money } from "@/lib/types";
+import { Version, materialsTotal, projectTotal } from "@/lib/types";
+import CurrencyMoney from "@/components/CurrencyMoney";
 const label = { budget: "Budget", standard: "Standard", premium: "Premium" } as const;
 export default function VersionCompare({ versions }: { versions: Version[] }) {
   const [active, setActive] = useState(0);
@@ -16,9 +17,9 @@ export default function VersionCompare({ versions }: { versions: Version[] }) {
               <div className="mt-4 overflow-x-auto"><table className="w-full text-sm"><thead className="text-left text-mute"><tr><th className="pb-1 font-normal">Material</th><th className="font-normal">Qty</th><th className="text-right font-normal">Cost</th></tr></thead>
                 <tbody>{x.materials.map((m, j) => <tr key={j} className="border-t border-line align-top"><td className="py-1.5 pr-2">{m.name}<div className="text-xs text-mute">{m.purpose}</div></td><td className="pr-2">{m.qty}</td><td className="text-right">{money(m.cost)}</td></tr>)}</tbody></table></div>
               <dl className="mt-3 space-y-1 border-t border-line pt-3 text-sm">
-                <div className="flex justify-between"><dt className="text-mute">Materials</dt><dd>{money(materialsTotal(x))}</dd></div>
-                <div className="flex justify-between"><dt className="text-mute">Tools & consumables</dt><dd>{money(x.extraCost)}</dd></div>
-                <div className="flex justify-between font-semibold"><dt>Total project cost</dt><dd>{money(projectTotal(x))}</dd></div></dl>
+                <div className="flex justify-between"><dt className="text-mute">Materials</dt><dd>{money(materialsTotal(x), "PKR")}</dd></div>
+                <div className="flex justify-between"><dt className="text-mute">Tools & consumables</dt><dd>{money(x.extraCost, "PKR")}</dd></div>
+                <div className="flex justify-between font-semibold"><dt>Total project cost</dt><dd>{money(projectTotal(x), "PKR")}</dd></div></dl>
               <div className="mt-4 grid gap-3 text-sm sm:grid-cols-2 lg:grid-cols-1">
                 <div><p className="font-medium">Advantages</p><ul className="list-disc pl-5 text-mute">{x.pros.map((t) => <li key={t}>{t}</li>)}</ul></div>
                 <div><p className="font-medium">Limitations</p><ul className="list-disc pl-5 text-mute">{x.cons.map((t) => <li key={t}>{t}</li>)}</ul></div></div>
