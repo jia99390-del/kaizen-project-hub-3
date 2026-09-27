@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getProject, getProjects } from "@/lib/projects";
 import ProjectCard from "@/components/ProjectCard";
-import { projectTotal, startingCost, money } from "@/lib/types";
+import { projectTotal, startingCost, money, Currency } from "@/lib/types";
 import VersionCompare from "@/components/VersionCompare";
 export const dynamic = "force-dynamic";
 type Props = { params: { slug: string } };
