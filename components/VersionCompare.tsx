@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { Version, materialsTotal, projectTotal } from "@/lib/types";
+import { Version, materialsTotal, projectTotal, money } from "@/lib/types";
 import CurrencyMoney from "@/components/CurrencyMoney";
 const label = { budget: "Budget", standard: "Standard", premium: "Premium" } as const;
 export default function VersionCompare({ versions }: { versions: Version[] }) {
